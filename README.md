@@ -69,9 +69,7 @@ I won it with **[Nap in a Boat](https://github.com/Celaidon/Nap-in-a-boat)**, a 
 
 <div align="center">
 
-Say hi if you're building something with open-source AI or Flutter.
-
-<img src="assets/footer.svg" alt="Napping in a boat between commits" width="100%">
+Say hi
 
 <sub>All the pixel art is drawn from code: <a href="tools/build_assets.py"><code>tools/build_assets.py</code></a></sub>
 
