@@ -38,35 +38,28 @@
 <!-- ============ PROJECTS ============ -->
 <h2 align="center">projects</h2>
 
-<!--
-  EDIT GUIDE
-  - Every cover image should be the same size (recommended 600 x 300 px).
-  - Replace each REPO-URL-HERE with the real repository link.
-  - Each card = one <td>. Three <td> per <tr> = three cards per row.
--->
-
 <table align="center">
   <tr>
     <!-- Card 1 -->
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/Celaidon/Nap-in-a-boat">
-        <img src="assets/projects/nap-in-a-boat.png" alt="Nap in a Boat" width="100%"><br>
+        <img src="assets/projects/nap-in-a-boat.png" alt="Nap in a Boat" width="100%"><br><br>
         <b>Nap in a Boat</b><br>
         <sub>Blend a writing model and a coding model with a single slider.</sub>
       </a>
     </td>
     <!-- Card 2 -->
     <td width="33%" valign="top" align="center">
-      <a href="REPO-URL-HERE">
-        <img src="assets/projects/wedroid.png" alt="WeDroid Event Manager" width="100%"><br>
+      <a href="https://github.com/Android-Club-VITC/WeDroid">
+        <img src="assets/projects/wedroid.png" alt="WeDroid Event Manager" width="100%"><br><br>
         <b>WeDroid Event Manager</b><br>
         <sub>Android Club's event app with QR check-in and live attendance.</sub>
       </a>
     </td>
     <!-- Card 3 -->
     <td width="33%" valign="top" align="center">
-      <a href="REPO-URL-HERE">
-        <img src="assets/projects/local-rag-chatbot.png" alt="Local RAG Chatbot" width="100%"><br>
+      <a href="https://github.com/Celaidon/Retrieva">
+        <img src="assets/projects/local-rag-chatbot.png" alt="Local RAG Chatbot" width="100%"><br><br>
         <b>Local RAG Chatbot</b><br>
         <sub>Answers questions over local text files using a local Ollama LLM.</sub>
       </a>
@@ -75,8 +68,8 @@
   <tr>
     <!-- Card 4 -->
     <td width="33%" valign="top" align="center">
-      <a href="REPO-URL-HERE">
-        <img src="assets/projects/celadon.png" alt="Celadon" width="100%"><br>
+      <a href="https://github.com/Celaidon/Celadon_study">
+        <img src="assets/projects/celadon.png" alt="Celadon" width="100%"><br><br>
         <b>Celadon</b><br>
         <sub>Flutter productivity app with study log, to-do, journal and Pomodoro.</sub>
       </a>
